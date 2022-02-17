@@ -1,1 +1,7 @@
-Pseudocode
+Start
+Input Numbers
+Calculate the squares of all numbers.
+Export the squares gotten
+Add all the squares gotten.
+Export the Results.
+End
